@@ -1,0 +1,23 @@
+{
+  "name": "profile-website",
+  "version": "1.0.0",
+  "description": "A simple profile website similar to guns.lol",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build step not defined'",
+    "test": "echo 'Test step not defined'"
+  },
+  "keywords": [
+    "profile",
+    "website",
+    "portfolio"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  },
+  "devDependencies": {},
+  "homepage": "https://yourusername.github.io/profile-website"
+}
